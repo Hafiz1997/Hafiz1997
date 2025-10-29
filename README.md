@@ -1,7 +1,7 @@
 # (PROFILE README IS IN PROGRESS)
-# Hi there, I'm [Your Name]! 👋
+# Hafiz Padzli, Fullstack Developer
 
-![Banner Image](your_banner_image_url_here)
+<!-- ![Banner Image](your_banner_image_url_here) -->
 
 ## About Me 🚀
 
