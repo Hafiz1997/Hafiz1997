@@ -26,8 +26,8 @@
     <li>
       <a href="#featured-projects">Featured Projects</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#project-1">Project 1</a></li>
+        <li><a href="#project-2">Project 2</a></li>
       </ul>
     </li>
     <li>
@@ -69,6 +69,8 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 [![React][React.com]][React-url]
 [![ReactNative][ReactNative.com]][ReactNative-url]
 [![VueJS][VueJS.com]][VueJS-url]
+[![Docker][Docker.com]][Docker-url]
+[![DockerCompose][DockerCompose.com]][DockerCompose-url]
 
 <!-- *Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).* -->
 
@@ -77,7 +79,7 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 
 ## Featured Projects
 
-### [Project 1 Title](project_1_link)
+### Project 1
 
 ![Project 1 Screenshot](project_1_screenshot_url)
 
@@ -86,7 +88,7 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 <p align="right">(<a href="#readme-top">Back To Top</a>)</p>
 
 
-### [Project 2 Title](project_2_link)
+### Project 2
 
 ![Project 2 Screenshot](project_2_screenshot_url)
 
@@ -132,6 +134,10 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 [ReactNative-url]: https://reactnative.dev/docs/getting-started
 [VueJS.com]: https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
 [VueJS-url]: https://vuejs.org/guide/introduction.html
+[Docker.com]: https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white
+[Docker-url]: https://docs.docker.com/reference/
+[DockerCompose.com]: https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white
+[DockerCompose-url]: https://docs.docker.com/compose/
 [LinkedIn.com]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [LinkedIn-url]: https://www.linkedin.com/in/hafizpadzli
 [Gmail.com]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
