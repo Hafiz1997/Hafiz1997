@@ -114,6 +114,31 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 <p align="right">(<a href="#readme-top">Back To Top</a>)</p>
 
 
+<!-- | Method | Endpoint | Description |
+|--------|----------|-------------|
+| ![POST](https://img.shields.io/badge/POST-blue) | `/taxpayer` | Login as taxpayer |
+| ![POST](https://img.shields.io/badge/POST-blue) | `/intermediary` | Login as intermediary |
+| ![GET](https://img.shields.io/badge/GET-green) | `/document-types` | Retrieve all document types |
+| ![GET](https://img.shields.io/badge/GET-green) | `/document-types/{id}` | Retrieve a specific document type |
+| ![GET](https://img.shields.io/badge/GET-green) | `/document-types/{id}/versions/{vid}` | Retrieve a specific document type version |
+| ![GET](https://img.shields.io/badge/GET-green) | `/notifications` | Query sent notifications |
+| ![GET](https://img.shields.io/badge/GET-green) | `/validate` | Validate taxpayer's TIN |
+| ![POST](https://img.shields.io/badge/POST-blue) | `/submit` | Submit documents |
+| ![POST](https://img.shields.io/badge/POST-blue) | `/submit/v2` | Submit documents without stopping the process that calls this API. |
+| ![PUT](https://img.shields.io/badge/PUT-orange) | `/update/{uuid}` | Update documents |
+| ![GET](https://img.shields.io/badge/GET-green) | `/documents/recent` | Query recent documents (used for troubleshooting) |
+| ![GET](https://img.shields.io/badge/GET-green) | `/documents/submission/{submissionUid}` | Query submission |
+| ![GET](https://img.shields.io/badge/GET-green) | `/documents/{uuid}/raw` | Query document |
+| ![GET](https://img.shields.io/badge/GET-green) | `/documents/{uuid}/details` | Query document details |
+| ![GET](https://img.shields.io/badge/GET-green) | `/documents/search` | Search documents |
+| ![GET](https://img.shields.io/badge/GET-green) | `/taxpayer/search` | Search taxpayer's TIN |
+| ![GET](https://img.shields.io/badge/GET-green) | `/taxpayer/qr/{qrCodeText}` | Taxpayer's QR code |
+| ![GET](https://img.shields.io/badge/GET-green) | `/submissions/user` | Query user's submissions |
+| ![GET](https://img.shields.io/badge/GET-green) | `/submissions/all` | Query all submissions (BOSS) |
+| ![GET](https://img.shields.io/badge/GET-green) | `/submissions/{submissionUID}/qr` | Get QR code for a validated submission |
+| ![GET](https://img.shields.io/badge/GET-green) | `/submissions/qr` | Get QR code for a validated submission without submission UID | -->
+
+
 [SpringBoot.com]: https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white
 [SpringBoot-url]: https://spring.io/projects/spring-boot
 [Angular.com]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
