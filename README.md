@@ -1,13 +1,14 @@
 <a id="readme-top"></a>
 
+<!-- HEADER -->
 <div align="center">
-  <h1 align="center">(PROFILE README IS IN PROGRESS)</h3>
-  <h1 align="center">Hafiz Padzli, Fullstack/Software Developer</h3>
+  <h1 align="center">Muhammad Hafizuddin, Fullstack/Software Developer</h3>
   
-<!-- # (PROFILE README IS IN PROGRESS) -->
-<!-- # Hafiz Padzli, Fullstack Developer -->
-<!-- ![Banner Image](your_banner_image_url_here) -->
+  <!-- # (PROFILE README IS IN PROGRESS) -->
+  <!-- # Hafiz Padzli, Fullstack Developer -->
+  <!-- ![Banner Image](your_banner_image_url_here) -->
 </div>
+
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -28,6 +29,7 @@
       <ul>
         <li><a href="#project-1">Project 1</a></li>
         <li><a href="#project-2">Project 2</a></li>
+        <li><a href="#project-3">Project 3</a></li>
       </ul>
     </li>
     <li>
@@ -71,6 +73,7 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 [![VueJS][VueJS.com]][VueJS-url]
 [![Docker][Docker.com]][Docker-url]
 [![DockerCompose][DockerCompose.com]][DockerCompose-url]
+[![Cloudflare][Cloudflare.com]][Cloudflare-url]
 
 <!-- *Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).* -->
 
@@ -85,14 +88,19 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 
 **[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
 
-<p align="right">(<a href="#readme-top">Back To Top</a>)</p>
-
 
 ### Project 2
 
 ![Project 2 Screenshot](project_2_screenshot_url)
 
 **[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+
+
+### Project 3
+
+![Project 3 Screenshot](project_3_screenshot_url)
+
+**[Project 3 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_3_repository_link).
 
 <p align="right">(<a href="#readme-top">Back To Top</a>)</p>
 
@@ -138,6 +146,8 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 [Docker-url]: https://docs.docker.com/reference/
 [DockerCompose.com]: https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white
 [DockerCompose-url]: https://docs.docker.com/compose/
+[Cloudflare.com]: https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white
+[Cloudflare-url]: https://developers.cloudflare.com/
 [LinkedIn.com]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [LinkedIn-url]: https://www.linkedin.com/in/hafizpadzli
 [Gmail.com]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
