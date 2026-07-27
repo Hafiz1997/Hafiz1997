@@ -36,6 +36,7 @@
   </ol>
 </details>
 
+
 ## About Me
 
 I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
@@ -47,6 +48,7 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 - Fun fact: **[a fun fact about yourself]**
 
 <p align="right">(<a href="#readme-top">Back To Top</a>)</p>
+
 
 ## My Skills
 
@@ -72,6 +74,7 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 
 <p align="right">(<a href="#readme-top">Back To Top</a>)</p>
 
+
 ## Featured Projects
 
 ### [Project 1 Title](project_1_link)
@@ -82,6 +85,7 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 
 <p align="right">(<a href="#readme-top">Back To Top</a>)</p>
 
+
 ### [Project 2 Title](project_2_link)
 
 ![Project 2 Screenshot](project_2_screenshot_url)
@@ -90,13 +94,15 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 
 <p align="right">(<a href="#readme-top">Back To Top</a>)</p>
 
+
 ## Get in Touch
 
 <!-- - **[Personal Website / Blog]**(your_website_or_blog_link) -->
-- **[LinkedIn]**(https://www.linkedin.com/in/hafizpadzli)
-- **[Email]**(muhd.hafiz.16.1997@gmail.com)
+[![LinkedIn][LinkedIn.com]][LinkedIn-url]
+[![Gmail][Gmail.com]][Gmail-url]
 
 <p align="right">(<a href="#readme-top">Back To Top</a>)</p>
+
 
 [SpringBoot.com]: https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white
 [SpringBoot-url]: https://spring.io/projects/spring-boot
@@ -126,3 +132,7 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 [ReactNative-url]: https://reactnative.dev/docs/getting-started
 [VueJS.com]: https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
 [VueJS-url]: https://vuejs.org/guide/introduction.html
+[LinkedIn.com]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[LinkedIn-url]: https://www.linkedin.com/in/hafizpadzli
+[Gmail.com]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[Gmail-url]: mailto:muhd.hafiz.16.1997@gmail.com
