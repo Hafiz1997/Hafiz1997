@@ -2,7 +2,7 @@
 
 <!-- HEADER -->
 <div align="center">
-  <h1 align="center">Muhammad Hafizuddin, Fullstack/Software Developer</h3>
+  <h1 align="center">Muhammad Hafizuddin, Full-Stack/Software Developer</h3>
   
   <!-- # (PROFILE README IS IN PROGRESS) -->
   <!-- # Hafiz Padzli, Fullstack Developer -->
@@ -41,13 +41,12 @@
 
 ## About Me
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+Hi, I'm Hafiz. I bring three years of professional experience as a Full-Stack/Software Developer. Beyond my proficiency in Spring Boot and Angular, I am the go-to developer for backend tasks because of my skill with third-party APIs implementation. Even when an SDK is frontend-driven, my technical understanding ensures I am trusted to handle the full integration on the backend. My open-minded nature makes me a highly collaborative team member who is always eager to learn new technologies and methodologies.
 
-- Currently learning: **[new technologies or skills you're currently learning]**
-- Working on: **[current projects or side-projects]**
-- Languages: **[programming languages and human languages you speak]**
-- How to reach me: **[your email address or other contact information]**
-- Fun fact: **[a fun fact about yourself]**
+- Currently Learning: Vue.js to expand my skill set
+- Working On: Creating a personal website as a practice to using Vue.js
+- Spoken Languages: Malay and English
+- Fun fact: A Project Manager I used to work with once described my overall skills as "good at backend, but prefers frontend"
 
 <p align="right">(<a href="#readme-top">Back To Top</a>)</p>
 
