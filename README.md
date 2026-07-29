@@ -2,7 +2,9 @@
 
 <!-- HEADER -->
 <div align="center">
-  <h1 align="center">Muhammad Hafizuddin, Full-Stack/Software Developer</h3>
+  <h1 align="center">
+    Muhammad Hafizuddin, Full-Stack/Software Developer
+  </h1>
   
   <!-- # (PROFILE README IS IN PROGRESS) -->
   <!-- # Hafiz Padzli, Fullstack Developer -->
@@ -40,12 +42,15 @@
 
 ## About Me
 
-Hi, I'm Hafiz. I bring three years of professional experience as a Full-Stack/Software Developer. Beyond my proficiency in Spring Boot and Angular, I am the go-to developer for backend tasks because of my skill with third-party APIs implementation. Even when an SDK is frontend-driven, my technical understanding ensures I am trusted to handle the full integration on the backend. My open-minded nature makes me a highly collaborative team member who is always eager to learn new technologies and methodologies.
+Hi, I'm Hafiz. I bring three years of professional experience as a Full-Stack/Software Developer. With professional experience in Spring Boot and Angular, I frequently work on backend integrations that involve third-party APIs in particular. I’ve handled integrations ranging from REST APIs to SDK-backed services, often designing the backend layer that connects external platforms with internal applications. Even when an SDK is frontend-driven, my technical understanding ensures I am trusted to handle the full integration on both the frontend and the backend. My open-minded nature makes me a highly collaborative team member who is always eager to learn new technologies and methodologies.
 
 - Currently Learning: Vue.js to expand my skill set
 - Working On: Creating a personal website as a practice to using Vue.js
 - Spoken Languages: Malay and English
-- Fun fact: A Project Manager I used to work with once described my overall skills as "good at backend, but prefers frontend"
+- Professional Interests:
+  - Modular Architecture: Design and development of clean, modular code bases.
+  - Reusable Library Development: Building scalable component and utility libraries to accelerate development.
+  - API and SDK Integrations: Seamlessly connecting third-party systems and data pipelines.
 
 <p align="right">(<a href="#readme-top">Back To Top</a>)</p>
 
