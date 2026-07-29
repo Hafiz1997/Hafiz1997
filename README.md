@@ -97,7 +97,7 @@ Hi, I'm Hafiz. I bring three years of professional experience as a Full-Stack/So
 [![Ionic][Ionic.com]][Ionic-url]
 
 #### Purpose:
-test. *You can check out the repository **[here](project_1_repository_link)**.*
+test. *You can check out the repository **[here](https://github.com/Hafiz1997)**.*
 
 #### Highlights:
 - test
@@ -116,7 +116,7 @@ test. *You can check out the repository **[here](project_1_repository_link)**.*
 [![MongoDB][MongoDB.com]][MongoDB-url]
 
 #### Purpose:
-test. *You can check out the repository **[here](project_1_repository_link)**.*
+test. *You can check out the repository **[here](https://github.com/Hafiz1997)**.*
 
 #### Highlights:
 - test
