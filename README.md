@@ -49,8 +49,8 @@ Hi, I'm Hafiz. I bring three years of professional experience as a Full-Stack/So
 - Spoken Languages: Malay and English
 - Professional Interests:
   - Modular Architecture: Design and development of clean, modular code bases.
-  - Reusable Library Development: Building scalable component and utility libraries to accelerate development.
   - API and SDK Integrations: Seamlessly connecting third-party systems and data pipelines.
+  - Reusable Library Development: Building scalable component and utility libraries to accelerate development.
 
 <p align="right">(<a href="#readme-top">Back To Top</a>)</p>
 
