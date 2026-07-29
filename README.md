@@ -27,9 +27,8 @@
     <li>
       <a href="#featured-projects">Featured Projects</a>
       <ul>
-        <li><a href="#project-1">Project 1</a></li>
-        <li><a href="#project-2">Project 2</a></li>
-        <li><a href="#project-3">Project 3</a></li>
+        <li><a href="#angular-capacitor-with-backend-template">Angular Capacitor With Backend Template</a></li>
+        <li><a href="#external-api-gateway-template">External API Gateway Template</a></li>
       </ul>
     </li>
     <li>
@@ -74,33 +73,32 @@ Hi, I'm Hafiz. I bring three years of professional experience as a Full-Stack/So
 [![DockerCompose][DockerCompose.com]][DockerCompose-url]
 [![Cloudflare][Cloudflare.com]][Cloudflare-url]
 
-<!-- *Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).* -->
-
 <p align="right">(<a href="#readme-top">Back To Top</a>)</p>
 
 
 ## Featured Projects
-**Note: Recreation of the project repositories are still ongoing.**
+**NOTE: Recreation of the project repositories are still ongoing.**
 
-### Project 1
+### Angular Capacitor With Backend Template
 
-![Project 1 Screenshot](project_1_screenshot_url)
+[![Spring-Boot][SpringBoot.com]][SpringBoot-url]
+[![Angular][Angular.com]][Angular-url]
+[![Tailwind][Tailwind.com]][Tailwind-url]
+[![TypeScript][TypeScript.com]][TypeScript-url]
+[![MySQL][MySQL.com]][MySQL-url]
+[![Capacitor][Capacitor.com]][Capacitor-url]
+[![Ionic][Ionic.com]][Ionic-url]
 
 **[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
 
 
-### Project 2
+### External API Gateway Template
 
-![Project 2 Screenshot](project_2_screenshot_url)
+[![Spring-Boot][SpringBoot.com]][SpringBoot-url]
+[![MySQL][MySQL.com]][MySQL-url]
+[![MongoDB][MongoDB.com]][MongoDB-url]
 
 **[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
-
-
-### Project 3
-
-![Project 3 Screenshot](project_3_screenshot_url)
-
-**[Project 3 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_3_repository_link).
 
 <p align="right">(<a href="#readme-top">Back To Top</a>)</p>
 
@@ -113,6 +111,12 @@ Hi, I'm Hafiz. I bring three years of professional experience as a Full-Stack/So
 
 <p align="right">(<a href="#readme-top">Back To Top</a>)</p>
 
+
+<!-- ### Project 1
+
+![Project 1 Screenshot](project_1_screenshot_url)
+
+**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link). -->
 
 <!-- | Method | Endpoint | Description |
 |--------|----------|-------------|
