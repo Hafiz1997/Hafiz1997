@@ -82,12 +82,10 @@ Hi, I'm Hafiz. I bring three years of professional experience as a Full-Stack/So
 
 
 ## Featured Projects
-**NOTE: Recreation of the project repositories are still ongoing.**
+**🚧 Some repositories are currently being recreated and documented. So this Featured Projects will be updated over time.**
 
 ### Angular Capacitor With Backend Template
 ![Full-Stack]
-
-*You can check out the repository **[here](project_1_repository_link)**.*
 
 #### Technologies:
 [![Spring-Boot][SpringBoot.com]][SpringBoot-url]
@@ -97,6 +95,9 @@ Hi, I'm Hafiz. I bring three years of professional experience as a Full-Stack/So
 [![MySQL][MySQL.com]][MySQL-url]
 [![Capacitor][Capacitor.com]][Capacitor-url]
 [![Ionic][Ionic.com]][Ionic-url]
+
+#### Purpose:
+test. *You can check out the repository **[here](project_1_repository_link)**.*
 
 #### Highlights:
 - test
@@ -109,12 +110,13 @@ Hi, I'm Hafiz. I bring three years of professional experience as a Full-Stack/So
 ### External API Gateway Template
 ![Backend]
 
-*You can check out the repository **[here](project_2_repository_link)**.*
-
 #### Technologies:
 [![Spring-Boot][SpringBoot.com]][SpringBoot-url]
 [![MySQL][MySQL.com]][MySQL-url]
 [![MongoDB][MongoDB.com]][MongoDB-url]
+
+#### Purpose:
+test. *You can check out the repository **[here](project_1_repository_link)**.*
 
 #### Highlights:
 - test
