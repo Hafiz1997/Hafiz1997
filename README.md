@@ -80,6 +80,7 @@ Hi, I'm Hafiz. I bring three years of professional experience as a Full-Stack/So
 
 
 ## Featured Projects
+**Note: Recreation of the project repositories are still ongoing.**
 
 ### Project 1
 
