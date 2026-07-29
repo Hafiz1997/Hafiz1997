@@ -23,7 +23,7 @@
       <a href="#my-skills">My Skills</a>
       <ul>
         <li><a href="#actively-used">Actively Used</a></li>
-        <li><a href="#exploring">Exploring</a></li>
+        <li><a href="#currently-exploring">Currently Exploring</a></li>
       </ul>
     </li>
     <li>
@@ -60,17 +60,17 @@ Hi, I'm Hafiz. I bring three years of professional experience as a Full-Stack/So
 ### Actively Used
 [![Spring-Boot][SpringBoot.com]][SpringBoot-url]
 [![Angular][Angular.com]][Angular-url]
-[![HTML][HTML.com]][HTML-url]
-[![Tailwind][Tailwind.com]][Tailwind-url]
-[![CSS][CSS.com]][CSS-url]
 [![TypeScript][TypeScript.com]][TypeScript-url]
 [![JavaScript][JavaScript.com]][JavaScript-url]
+[![HTML][HTML.com]][HTML-url]
+[![CSS][CSS.com]][CSS-url]
+[![Tailwind][Tailwind.com]][Tailwind-url]
 [![MySQL][MySQL.com]][MySQL-url]
 [![MongoDB][MongoDB.com]][MongoDB-url]
 [![Capacitor][Capacitor.com]][Capacitor-url]
 [![Ionic][Ionic.com]][Ionic-url]
 
-### Exploring
+### Currently Exploring
 [![React][React.com]][React-url]
 [![ReactNative][ReactNative.com]][ReactNative-url]
 [![VueJS][VueJS.com]][VueJS-url]
@@ -85,25 +85,43 @@ Hi, I'm Hafiz. I bring three years of professional experience as a Full-Stack/So
 **NOTE: Recreation of the project repositories are still ongoing.**
 
 ### Angular Capacitor With Backend Template
+![Full-Stack]
 
+*You can check out the repository **[here](project_1_repository_link)**.*
+
+#### Technologies:
 [![Spring-Boot][SpringBoot.com]][SpringBoot-url]
 [![Angular][Angular.com]][Angular-url]
-[![Tailwind][Tailwind.com]][Tailwind-url]
 [![TypeScript][TypeScript.com]][TypeScript-url]
+[![Tailwind][Tailwind.com]][Tailwind-url]
 [![MySQL][MySQL.com]][MySQL-url]
 [![Capacitor][Capacitor.com]][Capacitor-url]
 [![Ionic][Ionic.com]][Ionic-url]
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+#### Highlights:
+- test
+- tehdgajd
+- jagdjcs
+
+<!-- Highlights examples: Authentication, JWT, API integration, Push notifications, Responsive UI -->
 
 
 ### External API Gateway Template
+![Backend]
 
+*You can check out the repository **[here](project_2_repository_link)**.*
+
+#### Technologies:
 [![Spring-Boot][SpringBoot.com]][SpringBoot-url]
 [![MySQL][MySQL.com]][MySQL-url]
 [![MongoDB][MongoDB.com]][MongoDB-url]
 
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+#### Highlights:
+- test
+- tehdgajd
+- jagdjcs
+
+<!-- Highlights examples: Authentication, JWT, API integration, Push notifications, Responsive UI -->
 
 <p align="right">(<a href="#readme-top">Back To Top</a>)</p>
 
@@ -117,20 +135,23 @@ Hi, I'm Hafiz. I bring three years of professional experience as a Full-Stack/So
 <p align="right">(<a href="#readme-top">Back To Top</a>)</p>
 
 
+[Full-Stack]: https://img.shields.io/badge/Role-Full%20Stack-cyan
+[Frontend]: https://img.shields.io/badge/Role-Frontend-blue
+[Backend]: https://img.shields.io/badge/Role-Backend-green
 [SpringBoot.com]: https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white
 [SpringBoot-url]: https://spring.io/projects/spring-boot
 [Angular.com]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
 [Angular-url]: https://angular.dev/overview
-[HTML.com]: https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white
-[HTML-url]: https://developer.mozilla.org/en-US/docs/Web/HTML
-[Tailwind.com]: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
-[Tailwind-url]: https://tailwindcss.com/docs/installation/using-vite
-[CSS.com]: https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white
-[CSS-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [TypeScript.com]: https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
 [TypeScript-url]: https://www.typescriptlang.org/docs/
 [JavaScript.com]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 [JavaScript-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[HTML.com]: https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white
+[HTML-url]: https://developer.mozilla.org/en-US/docs/Web/HTML
+[CSS.com]: https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white
+[CSS-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[Tailwind.com]: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
+[Tailwind-url]: https://tailwindcss.com/docs/installation/using-vite
 [MySQL.com]: https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
 [MySQL-url]: https://dev.mysql.com/doc/
 [MongoDB.com]: https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
