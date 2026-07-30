@@ -97,7 +97,7 @@ Hi, I'm Hafiz. I bring three years of professional experience as a Full-Stack/So
 [![Ionic][Ionic.com]][Ionic-url]
 
 #### Purpose:
-test. *You can check out the repository **[here](https://github.com/Hafiz1997)**.*
+test. *You can check out the frontend repository **[here](https://github.com/Hafiz1997/angular-capacitor-template-fe)** and the backend repository **[here](https://github.com/Hafiz1997/angular-capacitor-template-be)**.*
 
 #### Highlights:
 - test
