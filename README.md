@@ -69,7 +69,7 @@ Hi, I'm Hafiz. I bring three years of professional experience as a Full-Stack/So
 [![MongoDB][MongoDB.com]][MongoDB-url]
 [![Capacitor][Capacitor.com]][Capacitor-url]
 [![Ionic][Ionic.com]][Ionic-url]
-[![AndroidStudio][AndroidStudio.com]][AndroidStudio-url]
+<!-- [![AndroidStudio][AndroidStudio.com]][AndroidStudio-url] -->
 
 ### Currently Exploring
 [![React][React.com]][React-url]
@@ -96,7 +96,7 @@ Hi, I'm Hafiz. I bring three years of professional experience as a Full-Stack/So
 [![MySQL][MySQL.com]][MySQL-url]
 [![Capacitor][Capacitor.com]][Capacitor-url]
 [![Ionic][Ionic.com]][Ionic-url]
-[![AndroidStudio][AndroidStudio.com]][AndroidStudio-url]
+<!-- [![AndroidStudio][AndroidStudio.com]][AndroidStudio-url] -->
 
 #### Purpose:
 test. *You can check out the frontend repository **[here](https://github.com/Hafiz1997/angular-capacitor-template-fe)** and the backend repository **[here](https://github.com/Hafiz1997/angular-capacitor-template-be)**.*
@@ -164,8 +164,8 @@ test. *You can check out the repository **[here](https://github.com/Hafiz1997/ex
 [Capacitor-url]: https://capacitorjs.com/docs
 [Ionic.com]: https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white
 [Ionic-url]: https://ionicframework.com/docs
-[AndroidStudio.com]: https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white
-[AndroidStudio-url]: https://developer.android.com/studio/intro
+<!-- [AndroidStudio.com]: https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white
+[AndroidStudio-url]: https://developer.android.com/studio/intro -->
 [React.com]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://react.dev/reference/react
 [ReactNative.com]: https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
