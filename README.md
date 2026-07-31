@@ -99,14 +99,18 @@ Hi, I'm Hafiz. I bring three years of professional experience as a Full-Stack/So
 <!-- [![AndroidStudio][AndroidStudio.com]][AndroidStudio-url] -->
 
 #### Purpose:
-test. *You can check out the frontend repository **[here](https://github.com/Hafiz1997/angular-capacitor-template-fe)** and the backend repository **[here](https://github.com/Hafiz1997/angular-capacitor-template-be)**.*
+**🚧 Ongoing Recreation 🚧**
+A complete reference implementation demonstrating how I typically structure enterprise full-stack applications. The frontend is built using Angular, Ionic and Capacitor. This allows it to be a single codebase to target both web and Android while communicating with a dedicated Spring Boot backend. The project showcases modular architecture, authentication, reusable UI components and scalable project organization. *You can check out the frontend repository **[here](https://github.com/Hafiz1997/angular-capacitor-template-fe)** and the backend repository **[here](https://github.com/Hafiz1997/angular-capacitor-template-be)**.*
 
 #### Highlights:
-- test
-- tehdgajd
-- jagdjcs
-
-<!-- Highlights examples: Authentication, JWT, API integration, Push notifications, Responsive UI -->
+- Angular + Ionic + Capacitor shared codebase.
+- Spring Boot backend integration.
+- JWT authentication.
+- Modular architecture.
+- Reusable components.
+- Responsive web & Android support.
+- REST API consumption.
+- Environment configuration.
 
 
 ### External API Gateway Template
@@ -118,14 +122,19 @@ test. *You can check out the frontend repository **[here](https://github.com/Haf
 [![MongoDB][MongoDB.com]][MongoDB-url]
 
 #### Purpose:
-test. *You can check out the repository **[here](https://github.com/Hafiz1997/external-api-gateway-template-be)**.*
+**🚧 Ongoing Recreation 🚧**
+A reusable Spring Boot template inspired by my professional experience designing backend services that integrate multiple third-party systems. The project demonstrates a scalable architecture for managing external APIs, SDK integrations, database persistence and standardized request/response handling without containing any proprietary business logic. *You can check out the repository **[here](https://github.com/Hafiz1997/external-api-gateway-template-be)**.*
 
 #### Highlights:
-- test
-- tehdgajd
-- jagdjcs
-
-<!-- Highlights examples: Authentication, JWT, API integration, Push notifications, Responsive UI -->
+- Generic API client architecture.
+- Multiple external service implementations.
+- MySQL + MongoDB support.
+- DTO mapping.
+- Global Error handling.
+- Retry strategies.
+- Logging.
+- Configuration-driven integrations.
+- Reusable integration framework.
 
 <p align="right">(<a href="#readme-top">Back To Top</a>)</p>
 
