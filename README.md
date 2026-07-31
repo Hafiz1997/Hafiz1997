@@ -100,6 +100,7 @@ Hi, I'm Hafiz. I bring three years of professional experience as a Full-Stack/So
 
 #### Purpose:
 **🚧 Ongoing Recreation 🚧**
+
 A complete reference implementation demonstrating how I typically structure enterprise full-stack applications. The frontend is built using Angular, Ionic and Capacitor. This allows it to be a single codebase to target both web and Android while communicating with a dedicated Spring Boot backend. The project showcases modular architecture, authentication, reusable UI components and scalable project organization. *You can check out the frontend repository **[here](https://github.com/Hafiz1997/angular-capacitor-template-fe)** and the backend repository **[here](https://github.com/Hafiz1997/angular-capacitor-template-be)**.*
 
 #### Highlights:
@@ -123,6 +124,7 @@ A complete reference implementation demonstrating how I typically structure ente
 
 #### Purpose:
 **🚧 Ongoing Recreation 🚧**
+
 A reusable Spring Boot template inspired by my professional experience designing backend services that integrate multiple third-party systems. The project demonstrates a scalable architecture for managing external APIs, SDK integrations, database persistence and standardized request/response handling without containing any proprietary business logic. *You can check out the repository **[here](https://github.com/Hafiz1997/external-api-gateway-template-be)**.*
 
 #### Highlights:
