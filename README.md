@@ -194,6 +194,14 @@ A reusable Spring Boot template inspired by my professional experience designing
 [Gmail.com]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [Gmail-url]: mailto:muhd.hafiz.16.1997@gmail.com
 
+<!-- * [![Java][Java.com]][Java-url]
+* [![Maven][Maven.com]][Maven-url]
+
+[Java.com]: https://img.shields.io/badge/Java%2026-ED8B00?logo=openjdk&logoColor=fff
+[Java-url]: https://www.oracle.com/java/
+[Maven.com]: https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=fff
+[Maven-url]: https://maven.apache.org/ -->
+
 <!-- example of sub content
 ### Project 1
 
