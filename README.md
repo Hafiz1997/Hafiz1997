@@ -125,7 +125,7 @@ A complete reference implementation demonstrating how I typically structure ente
 #### Purpose:
 **🚧 Ongoing Recreation 🚧**
 
-A reusable Spring Boot template inspired by my professional experience designing backend services that integrate multiple third-party systems. The project demonstrates a scalable architecture for managing external APIs, database persistence and standardised request/response handling without containing any proprietary business logic. *You can check out the repository **[here](https://github.com/Hafiz1997/external-api-gateway-template-be)**.*
+A reusable Spring Boot template inspired by my professional experience designing backend services that integrate multiple third-party systems. The project demonstrates a scalable architecture for managing external APIs, SDKs integration, database persistence and standardised request/response handling without containing any proprietary business logic. *You can check out the repository **[here](https://github.com/Hafiz1997/external-api-gateway-template-be)**.*
 
 #### Highlights:
 - Generic API client architecture.
